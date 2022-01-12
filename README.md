@@ -1,2 +1,2 @@
 # GitFlow
-Primeira alteração com gitflow
+Primeira alteração com gitflow.
